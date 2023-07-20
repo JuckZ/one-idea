@@ -1,4 +1,4 @@
-package com.github.juckz.oneidea.toolWindow
+package io.timesavior.oneidea.toolWindow
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.diagnostic.thisLogger
@@ -8,8 +8,8 @@ import com.intellij.openapi.wm.ToolWindowFactory
 import com.intellij.ui.components.JBLabel
 import com.intellij.ui.components.JBPanel
 import com.intellij.ui.content.ContentFactory
-import com.github.juckz.oneidea.MyBundle
-import com.github.juckz.oneidea.services.MyProjectService
+import io.timesavior.oneidea.MyBundle
+import io.timesavior.oneidea.services.MyProjectService
 import javax.swing.JButton
 
 

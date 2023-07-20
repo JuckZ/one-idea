@@ -1,4 +1,4 @@
-package com.github.juckz.oneidea.listeners
+package io.timesavior.oneidea.listeners
 
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger

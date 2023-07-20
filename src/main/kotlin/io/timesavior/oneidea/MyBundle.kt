@@ -1,4 +1,4 @@
-package com.github.juckz.oneidea
+package io.timesavior.oneidea
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
