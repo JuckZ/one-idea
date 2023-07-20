@@ -7,8 +7,10 @@
     <depends>com.intellij.modules.platform</depends>
 
     <resource-bundle>messages.MyBundle</resource-bundle>
+    <description>It's a toy now. Just for my learning. I will add some useful features into this plugin later.</description>
 
     <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="one-idea" path="/theme/oneidea.theme.json"/>
         <toolWindow factoryClass="io.timesavior.oneidea.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>
     </extensions>
 
